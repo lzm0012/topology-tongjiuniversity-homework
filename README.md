@@ -1,6 +1,6 @@
 # topology-tongjiuniversity-homework
 孩子们imgui不能用中文😠
-# Topology Graph Generator
+## Topology Graph Generator
 
 一个基于 OpenGL 的交互式图可视化工具，支持多种图结构生成、力导向布局算法和 SVG 导出。
 
@@ -17,13 +17,13 @@ SVG 矢量图导出
 
 ### Dependencies
 
-- **C++11** or higher
-- **CMake** 3.10+ (推荐)
-- **OpenGL** 3.3+
-- **GLFW** 3.x
-- **GLM** (OpenGL Mathematics)
-- **GLAD** (OpenGL Loader)
-- **Dear ImGui** (GUI)
+**C++11** or higher
+**CMake** 3.10+ (推荐)
+**OpenGL** 3.3+
+**GLFW** 3.x
+**GLM** (OpenGL Mathematics)
+**GLAD** (OpenGL Loader)
+**Dear ImGui** (GUI)
 
 
 **基本操作**:
